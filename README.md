@@ -54,7 +54,6 @@ The `config.yml` file should contain the following:
 
 ```yaml
 token: "YOUR_DISCORD_BOT_TOKEN"
-team_id: "YOUR_TEAM_ID"
 command_channel_id: YOUR_COMMAND_CHANNEL_ID
 ```
 

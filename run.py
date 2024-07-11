@@ -10,7 +10,6 @@ with open("config.yml", "r") as file:
     config = yaml.safe_load(file)
 
 TOKEN = config["token"]
-TEAM_ID = config["team_id"]
 COMMAND_CHANNEL_ID = config["command_channel_id"]
 
 intents = discord.Intents.default()

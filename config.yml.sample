@@ -1,3 +1,2 @@
 token: 'YOUR_DISCORD_BOT_TOKEN'
-team_id: YOUR_GUILD_ID
 command_channel_id: CHANNEL_ID
